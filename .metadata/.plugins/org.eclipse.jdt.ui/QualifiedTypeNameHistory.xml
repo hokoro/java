@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="base.Circle"/>
+    <fullyQualifiedTypeName name="base.Shape"/>
+    <fullyQualifiedTypeName name="derived.Circle"/>
+    <fullyQualifiedTypeName name="java.awt.FlowLayout"/>
+    <fullyQualifiedTypeName name="java.awt.BorderLayout"/>
+    <fullyQualifiedTypeName name="java.awt.Event"/>
+</qualifiedTypeNameHistroy>
